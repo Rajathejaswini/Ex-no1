@@ -202,11 +202,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1582" height="1600" alt="WhatsApp Image 2026-10-30 at 11 47 32 AM" src="https://github.com/user-attachments/assets/dcc79df4-614a-4ed3-86e5-5d160519dbdd" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="785" height="513" alt="image" src="https://github.com/user-attachments/assets/7b5c6d2f-d156-46ad-8b32-ddcd645e3666" />
 
 
 ## RESULT
